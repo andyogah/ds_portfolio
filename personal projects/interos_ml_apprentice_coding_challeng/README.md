@@ -3,7 +3,7 @@
  
 This challenge was originally part of the requirement for the apprenticeship program of Interos. 
 - Learn more about the challenge [here.](https://docs.google.com/document/d/1wv_B3VCGKpOS_-SCXOl0MjLWynwnGJGg3sFThl-nLCw/edit) Or, if the information gets taken down, the below is an excerpt. 
-- Using the following [dataset](https://drive.google.com/drive/folders/1k7MNpw_huZTL9opXU9e7u6M8phupPih7), implement a model or algorithm that can classify news articles of (at least) the type "earn" covered in the dataset. 
+- Using the following [dataset](https://drive.google.com/drive/folders/1k7MNpw_huZTL9opXU9e7u6M8phupPih7), implement a model or algorithm that can classify news articles of (at least) the type "earn" covered in the dataset. I uploaded a copy of the zip file on here should in case someone needs it for practice.
  
 As against the original Reuters21578 dataset, the dataset provided was purposely amended for this challenge to enable necessary analytical assessment.  
 
