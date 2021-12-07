@@ -5,7 +5,7 @@ This challenge was originally part of the requirement for the apprenticeship pro
 - Learn more about the challenge [here.](https://docs.google.com/document/d/1wv_B3VCGKpOS_-SCXOl0MjLWynwnGJGg3sFThl-nLCw/edit)
 - Using the following [dataset](https://drive.google.com/drive/folders/1k7MNpw_huZTL9opXU9e7u6M8phupPih7), implement a model or algorithm that can classify news articles of (at least) the type "earn" covered in the dataset. 
  
-As against the original Reuters21578 dataset, the dataset provided was amended for this challenge to be able to assess.  
+As against the original Reuters21578 dataset, the dataset provided was purposely amended for this challenge to enable necessary analytical assessment.  
 
 ![image](https://user-images.githubusercontent.com/29716987/144979635-8357fab9-00fd-4f15-a7c4-8137962d415e.png)
 
