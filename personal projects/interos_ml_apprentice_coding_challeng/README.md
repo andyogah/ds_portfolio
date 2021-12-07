@@ -1,8 +1,11 @@
 
 Interos ML Natural Language Processing Coding Challenge 
  
-This challenge was originally part of the requirement for the apprenticeship program of Interos. Learn more about the challenge [here.](https://docs.google.com/document/d/1wv_B3VCGKpOS_-SCXOl0MjLWynwnGJGg3sFThl-nLCw/edit)
+This challenge was originally part of the requirement for the apprenticeship program of Interos. 
+- Learn more about the challenge [here.](https://docs.google.com/document/d/1wv_B3VCGKpOS_-SCXOl0MjLWynwnGJGg3sFThl-nLCw/edit)
+- Using the following [dataset](https://drive.google.com/drive/folders/1k7MNpw_huZTL9opXU9e7u6M8phupPih7), implement a model or algorithm that can classify news articles of (at least) the type "earn" covered in the dataset. 
  
+
  Operational data challenge
 We would like to invite all interested in machine learning and operational research to explore our operational dataset. You can download it from here:
 
