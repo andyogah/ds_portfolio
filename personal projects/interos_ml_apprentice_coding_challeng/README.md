@@ -5,12 +5,10 @@ This challenge was originally part of the requirement for the apprenticeship pro
 - Learn more about the challenge [here.](https://docs.google.com/document/d/1wv_B3VCGKpOS_-SCXOl0MjLWynwnGJGg3sFThl-nLCw/edit)
 - Using the following [dataset](https://drive.google.com/drive/folders/1k7MNpw_huZTL9opXU9e7u6M8phupPih7), implement a model or algorithm that can classify news articles of (at least) the type "earn" covered in the dataset. 
  
+The 
 
- Operational data challenge
-We would like to invite all interested in machine learning and operational research to explore our operational dataset. You can download it from here:
+![image](https://user-images.githubusercontent.com/29716987/144979635-8357fab9-00fd-4f15-a7c4-8137962d415e.png)
 
-- [Data only](https://medicalanalyticsgroup.files.wordpress.com/2020/04/dataonly.zip) (zipped Excel file, 53MB)
-- [Code and data](https://medicalanalyticsgroup.files.wordpress.com/2020/04/codeanddata.zip) (zipped code and Excel file, 63MB)
 
 This data, describing patient waits in a hospital, was built for the following challenges (see our recent publication here: https://rdcu.be/b4ffC):
 
