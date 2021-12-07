@@ -33,4 +33,5 @@ Additional data – given a working model, how would you incorporate more data, 
 - Any other necessary technical details of your project, 
 - Anything else of note. 
  
-*Due to RAM/GPU limitations, your code, if developed locally, may not be able to run on Google CoLab. If this is the case, please provide detailed documentation as to its performance and how to locally reproduce the results (such as a requirements.txt, readme, pipenv/poetry lock file, etc.)*
+**Due to RAM/GPU limitations, your code, if developed locally, may not be able to run on Google CoLab. If this is the case, please provide detailed documentation as to its performance and how to locally reproduce the results (such as a requirements.txt, readme, pipenv/poetry lock file, etc.)**
+
