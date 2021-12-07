@@ -1,5 +1,5 @@
 
-Interos ML Apprentice Coding Challenge 
+Interos ML Natural Language Processing Apprentice Coding Challenge 
  
 The Position 
 Learn more about the the Interos ML Apprenticeship here
